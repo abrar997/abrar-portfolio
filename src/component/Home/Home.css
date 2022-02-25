@@ -1,0 +1,66 @@
+.home {
+  background: url("../images/jsjsj.png") no-repeat center;
+  height: 600px;
+  text-align: left;
+  color: white;
+}
+.home .MuiContainer-root {
+  box-shadow: 1px 1px 17px rgb(243, 242, 242);
+  background: linear-gradient(to left, rgb(204, 19, 50), black);
+  margin-top: 100px;
+  padding: 25px;
+}
+.home h2 {
+  padding-top: 100px;
+}
+.home h2 span {
+  color: pink;
+  font-size: 62px;
+}
+.home h6 {
+  text-transform: capitalize;
+}
+
+.home p {
+  font-size: 18px;
+  color: #eee;
+  text-align: left;
+  border: 1px solid #eee;
+  padding: 5px;
+}
+
+.home a {
+  color: rgb(218, 255, 176);
+  font-size: 22px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.css-i4bv87-MuiSvgIcon-root:hover {
+  color: #eee;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  color: white;
+  padding-right: 10px !important;
+}
+
+.home .home-contacts {
+  margin-top: 40px;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  width: 370px;
+}
+.home .home-girl-image img {
+  margin-top: 140px;
+  margin-left: -10px;
+}
+.home-image img {
+  position: absolute;
+  right: 230px;
+  top: 40px;
+  filter: drop-shadow(32px);
+}
+
+.home .MuiSvgIcon-root{float: right;}

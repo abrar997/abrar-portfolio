@@ -1,0 +1,11 @@
+.send-message {
+  font-size: 10px;
+  color: white;
+  float: right;
+  margin-top: 100px;
+  margin-right: 120px;
+}
+
+.send-message .MuiSvgIcon-root {
+  font-size: 50px;
+}

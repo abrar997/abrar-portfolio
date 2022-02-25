@@ -1,0 +1,34 @@
+.SkillsExperinece .MuiContainer-root {
+  background: linear-gradient(to left, rgb(204, 19, 50), black);
+  height: 1700px;
+  box-shadow: 1px 1px 17px rgb(243, 242, 242);
+  margin-top: 100px;
+  color: white;
+  padding: 20px;
+  border-bottom-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+/* .SkillsExperinece .MuiContainer-root{display:flex} */
+.SkillsExperinece .MuiContainer-root .SkillsExperinece-skills {
+  display: flex;
+  flex-flow: row;
+}
+.SkillsExperinece h4 {
+  margin-top: 20px;
+}
+.SkillsExperinece h3 {
+  text-align: center;
+}
+.SkillsExperinece h6 {
+  text-align: center;
+}
+.SkillsExperinece h5 {
+  margin-top: 10px;
+  border-bottom: 1px solid #eee;
+  width: 180px;
+}
+.SkillsExperinece .MuiListItem-root {
+  margin-left: 25px;
+  font-size: 19px;
+  color: rgb(245, 229, 232);
+}

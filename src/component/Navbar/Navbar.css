@@ -1,0 +1,31 @@
+.css-1t29gy6-MuiToolbar-root {
+  background: linear-gradient(to right, rgb(95, 8, 22), black);
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
+  width: 50%;
+  background: url("../images/navimg.png") no-repeat center !important;
+  background-color: black !important;
+  border-right: 4px solid rgb(255, 255, 255);
+  text-align: center;
+  padding: 20px;
+  /* margin-top: 60px; */
+}
+
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper a:hover {
+  border: 3px solid #eee;
+  color: black;
+  border-left: none;
+  border-right: none;
+}
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper a {
+  /* display: flex;
+  flex-flow: column; */
+  background: linear-gradient(to left, rgb(95, 8, 22), black);
+  padding: 20px;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper .css-h8m1q6 {
+  margin-top: 100px;
+}

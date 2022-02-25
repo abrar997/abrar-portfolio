@@ -1,0 +1,12 @@
+.Experinece{
+    /* background: url('../images/but.png') no-repeat center ; */
+}
+.Experinece h4 {
+  margin-top: 20px;
+
+}
+.Experinece .MuiListItem-root {
+  margin-left: 25px;
+  font-size: 19px;
+  color: rgb(245, 229, 232);
+}
