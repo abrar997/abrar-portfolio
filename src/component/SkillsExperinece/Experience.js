@@ -13,14 +13,14 @@ const Experience = () => {
       <Box>
         <div className="SkillsExperinece-skills">
           <List>
-            <Typography variant="h5"><SpaIcon />Frontend</Typography>
+            {/* <Typography variant="h5"><SpaIcon />Frontend</Typography>
             <ListItem>HTML , HTML5</ListItem>
             <ListItem>CSS , CSS3</ListItem>
             <ListItem>Bootstrap 4, 5</ListItem>
             <ListItem>javascript,oop,API,Ajax,json</ListItem>
             <ListItem>React js</ListItem>
             <ListItem>Material ui</ListItem>
-            <ListItem></ListItem>
+            <ListItem></ListItem> */}
           </List>
         </div>
       </Box>

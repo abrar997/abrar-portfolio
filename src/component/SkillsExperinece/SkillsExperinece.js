@@ -17,7 +17,7 @@ const SkillsExperinece = () => {
       <Container>
         <Typography variant="h3">Abrar Muthanna Rakea </Typography>
         <Typography variant="h6">React js Developer </Typography>
-        <Grid container spacing={2}>
+        {/* <Grid container spacing={2}>
           <Grid item xl={6}>
             <Box>
               <Typography variant="h4">
@@ -55,10 +55,10 @@ const SkillsExperinece = () => {
           </Grid>
           <Grid item xl={3}>
             <Box>
-              {/* <img src={require("../images/butter1.png")} alt="" /> */}
+              <img src={require("../images/butter1.png")} alt="" />
             </Box>
           </Grid>
-        </Grid>
+        </Grid> */}
       </Container>
     </div>
   );

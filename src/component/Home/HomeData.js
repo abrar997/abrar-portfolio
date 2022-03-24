@@ -21,10 +21,12 @@ const HomeData = () => {
             <Typography variant="h6" mt={1}>
               React js developer
             </Typography>
-            <p>
-              Welcome to my official portfolio website where i put all my work
+            <Typography variant="h4">
+              {/* Welcome to my official portfolio website where i put all my work
               related to my designs and many more .
-            </p>
+              كيف هي الحالي ؟؟ */}
+              داخلي شيءُ خفي لكني لا أتذكر لحن ما صوت شجي أغنة عن شهر ديسمبر
+            </Typography>
             <Box className="home-contacts">
               <a
                 href="mailto:abrprogammer@gmail.com"
