@@ -3,7 +3,7 @@
 }
 .css-4t3x6l-MuiPaper-root-MuiDrawer-paper {
   width: 50%;
-  background: url("../images/navimg.png") no-repeat center !important;
+  /* background: url("../images/navimg.png") no-repeat center !important; */
   background-color: black !important;
   border-right: 4px solid rgb(255, 255, 255);
   text-align: center;

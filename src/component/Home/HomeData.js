@@ -1,10 +1,8 @@
 import React from "react";
-import { Grid, Typography, Container, Box } from "@mui/material";
+import { Grid, Typography, Container, Box, Button } from "@mui/material";
 import LocalPostOfficeIcon from "@mui/icons-material/LocalPostOffice";
-import FacebookIcon from "@mui/icons-material/Facebook";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from "@mui/icons-material/Instagram";
-import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import "./Home.css";
 
 
@@ -21,12 +19,14 @@ const HomeData = () => {
             <Typography variant="h6" mt={1}>
               React js developer
             </Typography>
-            <Typography variant="h4">
-              {/* Welcome to my official portfolio website where i put all my work
-              related to my designs and many more .
-              كيف هي الحالي ؟؟ */}
-              داخلي شيءُ خفي لكني لا أتذكر لحن ما صوت شجي أغنة عن شهر ديسمبر
-            </Typography>
+<Box>
+  <Button>
+    
+    </Button> 
+    
+     <input type='file' name='resume'  />
+  </Box>
+
             <Box className="home-contacts">
               <a
                 href="mailto:abrprogammer@gmail.com"
@@ -37,15 +37,6 @@ const HomeData = () => {
               <a href="/" title="Abrar Alrawi">
                 <LinkedInIcon />
               </a>
-
-              <a href="/" title="07831190254">
-                <WhatsAppIcon />
-              </a>
-
-              <a href="mailto:abrprogammer@gmail.com" title="Abrar Alrawi">
-                <FacebookIcon />
-              </a>
-
               <a href="mailto:abrprogammer@gmail.com" title="code/Mu.">
                 <InstagramIcon />
               </a>

@@ -1,16 +1,6 @@
 import React from "react";
 import "./SkillsExperinece.css";
-import {
-  Container,
-  Typography,
-  Box,
-  List,
-  ListItem,
-  Grid,
-} from "@mui/material";
-import FilterVintageIcon from "@mui/icons-material/FilterVintage";
-import SpaIcon from "@mui/icons-material/Spa";
-import Experience from "./Experience";
+import { Container, Typography } from "@mui/material";
 const SkillsExperinece = () => {
   return (
     <div className="SkillsExperinece">
